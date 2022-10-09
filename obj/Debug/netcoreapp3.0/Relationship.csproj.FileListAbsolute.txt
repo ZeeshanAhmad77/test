@@ -1,0 +1,39 @@
+C:\Users\arslan.bilal\source\repos\Relationship\bin\Debug\netcoreapp3.0\Relationship.exe
+C:\Users\arslan.bilal\source\repos\Relationship\bin\Debug\netcoreapp3.0\Relationship.deps.json
+C:\Users\arslan.bilal\source\repos\Relationship\bin\Debug\netcoreapp3.0\Relationship.runtimeconfig.json
+C:\Users\arslan.bilal\source\repos\Relationship\bin\Debug\netcoreapp3.0\Relationship.runtimeconfig.dev.json
+C:\Users\arslan.bilal\source\repos\Relationship\bin\Debug\netcoreapp3.0\Relationship.dll
+C:\Users\arslan.bilal\source\repos\Relationship\bin\Debug\netcoreapp3.0\Relationship.pdb
+C:\Users\arslan.bilal\source\repos\Relationship\obj\Debug\netcoreapp3.0\Relationship.csprojAssemblyReference.cache
+C:\Users\arslan.bilal\source\repos\Relationship\obj\Debug\netcoreapp3.0\Relationship.AssemblyInfoInputs.cache
+C:\Users\arslan.bilal\source\repos\Relationship\obj\Debug\netcoreapp3.0\Relationship.AssemblyInfo.cs
+C:\Users\arslan.bilal\source\repos\Relationship\obj\Debug\netcoreapp3.0\Relationship.dll
+C:\Users\arslan.bilal\source\repos\Relationship\obj\Debug\netcoreapp3.0\Relationship.pdb
+E:\Internship Data\CureMD\Data\Projects\Relationship\bin\Debug\netcoreapp3.0\Relationship.exe
+E:\Internship Data\CureMD\Data\Projects\Relationship\bin\Debug\netcoreapp3.0\Relationship.deps.json
+E:\Internship Data\CureMD\Data\Projects\Relationship\bin\Debug\netcoreapp3.0\Relationship.runtimeconfig.json
+E:\Internship Data\CureMD\Data\Projects\Relationship\bin\Debug\netcoreapp3.0\Relationship.runtimeconfig.dev.json
+E:\Internship Data\CureMD\Data\Projects\Relationship\bin\Debug\netcoreapp3.0\Relationship.dll
+E:\Internship Data\CureMD\Data\Projects\Relationship\bin\Debug\netcoreapp3.0\Relationship.pdb
+E:\Internship Data\CureMD\Data\Projects\Relationship\obj\Debug\netcoreapp3.0\Relationship.csproj.AssemblyReference.cache
+E:\Internship Data\CureMD\Data\Projects\Relationship\obj\Debug\netcoreapp3.0\Relationship.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship Data\CureMD\Data\Projects\Relationship\obj\Debug\netcoreapp3.0\Relationship.AssemblyInfoInputs.cache
+E:\Internship Data\CureMD\Data\Projects\Relationship\obj\Debug\netcoreapp3.0\Relationship.AssemblyInfo.cs
+E:\Internship Data\CureMD\Data\Projects\Relationship\obj\Debug\netcoreapp3.0\Relationship.csproj.CoreCompileInputs.cache
+E:\Internship Data\CureMD\Data\Projects\Relationship\obj\Debug\netcoreapp3.0\Relationship.dll
+E:\Internship Data\CureMD\Data\Projects\Relationship\obj\Debug\netcoreapp3.0\Relationship.pdb
+E:\Internship Data\CureMD\Data\Projects\Relationship\obj\Debug\netcoreapp3.0\Relationship.genruntimeconfig.cache
+E:\Internship Data\CureMD\Data\Projects\SalarySlip\Relationship\bin\Debug\netcoreapp3.0\Relationship.exe
+E:\Internship Data\CureMD\Data\Projects\SalarySlip\Relationship\bin\Debug\netcoreapp3.0\Relationship.deps.json
+E:\Internship Data\CureMD\Data\Projects\SalarySlip\Relationship\bin\Debug\netcoreapp3.0\Relationship.runtimeconfig.json
+E:\Internship Data\CureMD\Data\Projects\SalarySlip\Relationship\bin\Debug\netcoreapp3.0\Relationship.runtimeconfig.dev.json
+E:\Internship Data\CureMD\Data\Projects\SalarySlip\Relationship\bin\Debug\netcoreapp3.0\Relationship.dll
+E:\Internship Data\CureMD\Data\Projects\SalarySlip\Relationship\bin\Debug\netcoreapp3.0\Relationship.pdb
+E:\Internship Data\CureMD\Data\Projects\SalarySlip\Relationship\obj\Debug\netcoreapp3.0\Relationship.csproj.AssemblyReference.cache
+E:\Internship Data\CureMD\Data\Projects\SalarySlip\Relationship\obj\Debug\netcoreapp3.0\Relationship.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship Data\CureMD\Data\Projects\SalarySlip\Relationship\obj\Debug\netcoreapp3.0\Relationship.AssemblyInfoInputs.cache
+E:\Internship Data\CureMD\Data\Projects\SalarySlip\Relationship\obj\Debug\netcoreapp3.0\Relationship.AssemblyInfo.cs
+E:\Internship Data\CureMD\Data\Projects\SalarySlip\Relationship\obj\Debug\netcoreapp3.0\Relationship.csproj.CoreCompileInputs.cache
+E:\Internship Data\CureMD\Data\Projects\SalarySlip\Relationship\obj\Debug\netcoreapp3.0\Relationship.dll
+E:\Internship Data\CureMD\Data\Projects\SalarySlip\Relationship\obj\Debug\netcoreapp3.0\Relationship.pdb
+E:\Internship Data\CureMD\Data\Projects\SalarySlip\Relationship\obj\Debug\netcoreapp3.0\Relationship.genruntimeconfig.cache
